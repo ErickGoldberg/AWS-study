@@ -203,4 +203,4 @@ Sim. Se você desejar fazer isso, o Lightsail aceita a adição de instâncias c
 
 Os load balancers do Lightsail aceitam conexões HTTP e HTTPS.
 
-Link relevante: https://aws.amazon.com/pt/lightsail/faq/#:~:text=P%3A%20O%20que%20%C3%A9%20o,hospedar%20suas%20aplica%C3%A7%C3%B5es%20na%20nuvem.
+Link relevante: https://aws.amazon.com/pt/lightsail/faq/#:~:text=P%3A%20O%20que%20%C3%A9%20o,hospedar%20suas%20aplica%C3%A7%C3%B5es%20na%20nuvem.  &&   https://aws.amazon.com/pt/lightsail/resources/
