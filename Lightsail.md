@@ -1,3 +1,5 @@
+#  **Tudo sobre Lighsail:**
+
 ## O que é o Lightsail:
   O Amazon Lightsail é um provedor de servidor privado virtual (VPS). O Lightsail oferece aos desenvolvedores funcionalidades e capacidade de computação, armazenamento e redes para implantar e gerenciar sites e aplicações Web na nuvem. O Lightsail inclui tudo de que você precisa para iniciar rapidamente o seu projeto – máquinas virtuais, contêineres, bancos de dados, CDN, balanceadores de carga, gerenciamento de DNS etc. Tudo isso por um preço mensal baixo e previsível.
 
