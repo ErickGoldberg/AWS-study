@@ -33,6 +33,11 @@ Ao criarmos uma instância a partir de uma imagem, podemos selecionar todo o har
 
 Obs: Na hora de criar uma imagem, parar a instância sempre é a recomendação. Desta forma, garantimos a integridade dos dados.
 
+## IP elástico:
+Um Endereço IP elástico é um endereço IPv4 estático projetado para computação em nuvem dinâmica. Um endereço IP elástico é alocado para a conta da AWS e será seu até que você o libere. Com um endereço IP elástico, é possível mascarar a falha de uma instância ou software remapeando rapidamente o endereço para outra instância na conta. Como alternativa, é possível especificar o endereço IP elástico em um registro DNS para o seu domínio, para que ele acione a sua instância. Um endereço IP elástico é um endereço IPv4 público, que é acessível pela Internet. Se a instância não tiver um endereço IPv4 público, será possível associar um endereço IP elástico a ela para permitir a comunicação com a Internet. Por exemplo, isso permite que você se conecte à instância do computador local.
+
+obs: O IP elástico não é cobrado se a instância estiver ligada, apenas se tiver desligada.
+
 ## Acessar o Amazon EC2:
   O Amazon EC2 fornece uma interface de usuário na web, o console do Amazon EC2. Depois de cadastrar-se em uma conta da AWS, você pode acessar o console do Amazon EC2 fazendo login no AWS Management Console e selecionando EC2 na página inicial do console.
 
