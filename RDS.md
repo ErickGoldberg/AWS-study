@@ -41,3 +41,5 @@ Um mecanismo de banco de dados é o software de banco de dados relacional espec�
 - PostgreSQL
 
 Cada mecanismo de banco de dados tem seus próprios recursos compatíveis, e cada versão de um mecanismo de banco de dados pode incluir recursos específicos. O suporte para recursos do Amazon RDS varia entre Regiões da AWS e versões específicas de cada mecanismo de banco de dados. Além disso, cada mecanismo de banco de dados tem um conjunto de parâmetros em um grupo de parâmetros de banco de dados que controlam o comportamento dos bancos de dados que ele gerencia.
+
+Links úteis: https://aws.amazon.com/pt/rds/  &&  https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html
